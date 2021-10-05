@@ -1,0 +1,11 @@
+/stats - access control
+wher login line :login _("login",login)
+refresh token = 
+password has X cross site scripting
+hex passowrd / solution 1
+token byte session handling ::: createjwt - solution 2
+logging insufficient ->::: 4 line + logrequest
+upload fille ->extenal ::: feature secure access tag
+injection me X permit all ::: solution 1 sysenv path
+[passowrd]-insecured cryptogtprahy ->side channel 
+
